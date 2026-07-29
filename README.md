@@ -8,6 +8,12 @@ O objetivo foi transformar dados esportivos em informações visuais, permitindo
 
 Todo o banco de dados foi criado por mim no **MySQL Workbench**, incluindo a modelagem das tabelas e a utilização de consultas SQL para estruturar os dados utilizados no dashboard.
 
+## 📸 Dashboard
+
+> Adicione aqui uma imagem do dashboard.
+
+![Dashboard](dashboard.png.png)
+
 ---
 
 ## 📊 Indicadores apresentados
