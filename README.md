@@ -10,7 +10,6 @@ Todo o banco de dados foi criado por mim no **MySQL Workbench**, incluindo a mod
 
 ## 📸 Dashboard
 
-> Adicione aqui uma imagem do dashboard.
 
 ![Dashboard](dashboard.png.png)
 
