@@ -11,7 +11,7 @@ Todo o banco de dados foi criado por mim no **MySQL Workbench**, incluindo a mod
 ## 📸 Dashboard
 
 
-![Dashboard](spfcdashboard.png)
+![spfcdashboard](spfcdashboard.png)
 
 ---
 
